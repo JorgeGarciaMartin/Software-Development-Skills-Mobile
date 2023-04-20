@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="exercises">
+        <item>bench press</item>
+        <item>squat</item>
+        <item>pull ups</item>
+    </string-array>
+
+    <string-array name="weights">
+        <item>120</item>
+        <item>180</item>
+        <item>40</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Chest</item>
+        <item>Quads</item>
+        <item>Back</item>
+    </string-array>
+
+</resources>
